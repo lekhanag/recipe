@@ -9,3 +9,4 @@ Add __sugar, coffee/tea powder__
 Serve
 last line changed locally
 ### This is a REMOTE change :O
+! [recipe image] (https://github.com/lekhanag/recipe/blob/main/recipe.png)
