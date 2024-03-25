@@ -1,3 +1,6 @@
+# Title: Coffee Recipe
+### Author: Lekhana Gunda
+
 ### This is a LOCAL change :)
 # Coffee/Tea recipe
 This readme file demonstrates the preparation of coffee/tea in 7 simple steps. line 2 changed remotely
